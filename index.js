@@ -54,6 +54,7 @@ class Stack {
     return temp.value;
   }
 
+  // Print the list
   print() {
     var arr = [];
     var current = this.first;

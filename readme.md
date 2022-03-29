@@ -17,3 +17,12 @@
 - Set the tail to be 2nd to last node.
 - Decrement the length of the list by 1.
 - Return the value of the node removed.
+
+### print() Pseudocode
+
+- Create an empty array.
+- Create a variable to store a current node.
+- Iterate through the list while current is true.
+- Push current value to an array.
+- Update the current value to the next value of the node.
+- Show the array.
